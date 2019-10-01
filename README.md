@@ -33,7 +33,7 @@ Live demo: [https://natours-louis.herokuapp.com](https://natours-louis.herokuapp
 * Tour
   - Manage booking, check tours map, check users' reviews and rating
 * User profile
-  - Update username, photo,email, and password
+  - Update username, photo, email, and password
 * Credit card Payment
 
 
