@@ -41,7 +41,7 @@ Live demo: [https://natours-louis.herokuapp.com](https://natours-louis.herokuapp
 ## How To Use
 
 ### Book a tour
-* Login to the site using user@email.com and "mypass" as the password
+* Login to the site as user: alex@example.com ("test1234")
 * Search for tours that you want to book
 * Book a tour
 * Proceed to the payment checkout page
@@ -58,6 +58,10 @@ Live demo: [https://natours-louis.herokuapp.com](https://natours-louis.herokuapp
 ### Manage your booking
 
 * Check the tour you have booked in "Manage Booking" page in your user settings. You'll be automatically redirected to this page after you have completed the booking.
+
+### Update your profile **(Admin only!)**
+
+* You can update your own username, profile photo, email and password.
 
 
 
@@ -81,6 +85,7 @@ git commit -m "Commit message"
 heroku login
 heroku create
 heroku config:set CONFIG_KEY=CONFIG_VALUE
+parcel build ./public/js/index.js --out-dir ./public/js --out-file bundle.js
 git push heroku master
 heroku open
 ```
