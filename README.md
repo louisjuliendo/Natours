@@ -6,6 +6,9 @@
   <br>
 </h1>
 
+ [![Build Status](https://circleci.com/gh/louisjuliendo/Natours.svg?style=shield)](https://circleci.com/gh/louisjuliendo/Natours)
+
+
 <h4 align="center">An awesome tour booking site built on top of <a href="https://nodejs.org/en/" target="_blank">NodeJS</a>.</h4>
 
  <p align="center">
